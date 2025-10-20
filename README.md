@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chirathp&theme=dark&hide_border=false">
 
 
-### Hi there, I'm Chirath
+### Hi there, I'm Vinuki
 
 [![chanu.chirath@gmail.com](https://img.shields.io/static/v1?label=Gmail&message=%20&color=EA4335&logo=gmail&logoColor=white)](mailto:chanu.chirath@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirath-perera-5bb021228/)
