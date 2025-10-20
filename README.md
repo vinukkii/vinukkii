@@ -37,6 +37,12 @@
 
 
 #### 🟠 Frontend Frameworks
+### Most Used Languages
+
+<img src="https://img.shields.io/badge/Angular-50%25-red?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-30%25-blue?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Java-20%25-orange?style=for-the-badge&logo=java&logoColor=white">
+
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/angular%20material-%230081CB.svg?style=flat&logo=angular&logoColor=white)
