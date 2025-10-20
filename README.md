@@ -37,7 +37,9 @@
 
 
 #### 🟠 Frontend Frameworks
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-50%25-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-30%25-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-20%25-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/angular%20material-%230081CB.svg?style=flat&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
