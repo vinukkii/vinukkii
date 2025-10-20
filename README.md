@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chirathp&theme=dark&hide_border=false">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinukkii&theme=dark&hide_border=false">
 
 
 ### Hi there, I'm Vinuki
@@ -12,7 +12,7 @@
 💻 **Full-Stack Developer | AI & Data Science Enthusiast**
 
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirathp&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinukkii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
 
 ### 🧰 Tech Stack & Tools
 
@@ -97,4 +97,4 @@
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br>
-[![](https://visitcount.itsvg.in/api?id=chirathp&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vinukkii&icon=3&color=12)](https://visitcount.itsvg.in)
