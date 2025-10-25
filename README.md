@@ -10,8 +10,8 @@
 
 💻 **Full-Stack Developer | AI & Data Science Enthusiast**
 
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinukkii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+<!-- <br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinukkii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"> -->
 
 #### 💻 Programming Languages
 ### Most Used Languages
