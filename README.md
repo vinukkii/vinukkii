@@ -1,9 +1,6 @@
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinukkii&theme=dark&hide_border=false">
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinukkii&theme=dark&hide_border=false"> -->
 
-
-### Hi there, I'm Vinuki
-
-[![chanu.chirath@gmail.com](https://img.shields.io/static/v1?label=Gmail&message=%20&color=EA4335&logo=gmail&logoColor=white)](mailto:vinuki.thomasz@gmail.com)
+[![vinuki.thomasz@gmail.com](https://img.shields.io/static/v1?label=Gmail&message=%20&color=EA4335&logo=gmail&logoColor=white)](mailto:vinuki.thomasz@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinuki-thomasz-8199b1225/)
 
 🎓 **BSc (Hons) Software Engineering Graduate**
@@ -42,8 +39,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%23F18E33.svg?style=flat&logo=kotlin&logoColor=white)
 
 
-#### 🟠 Frontend Frameworks
-
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![Angular Material](https://img.shields.io/badge/angular%20material-%230081CB.svg?style=flat&logo=angular&logoColor=white)
@@ -54,7 +49,6 @@
 ![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=flat&logo=.net&logoColor=white)
 
 
-#### 🧠 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -65,20 +59,9 @@
 ![CNN](https://img.shields.io/badge/CNN-%23007ACC.svg?style=flat&logo=ai&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)
 
-#### ☁️ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-#### 🗄 Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 
 
