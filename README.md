@@ -12,7 +12,8 @@
 
 ### Most Used Languages
 
-<img src="https://img.shields.io/badge/Angular-80%25-%23F06543?style=for-the-badge&logo=angular&logoColor=white">  
-<img src="https://img.shields.io/badge/.NET-60%25-%237D83FF?style=for-the-badge&logo=dotnet&logoColor=white">  
-<img src="https://img.shields.io/badge/Java-40%25-%23FFB300?style=for-the-badge&logo=coffeescript&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-80%25-%230C4B33?style=for-the-badge&logo=angular&logoColor=%23DD0031">  
+<img src="https://img.shields.io/badge/.NET-60%25-%2305122C?style=for-the-badge&logo=dotnet&logoColor=%235C2D91">  
+<img src="https://img.shields.io/badge/Java-40%25-%23211E1E?style=for-the-badge&logo=openjdk&logoColor=%23F89820">
+
 
