@@ -3,9 +3,9 @@
 [![vinuki.thomasz@gmail.com](https://img.shields.io/static/v1?label=Gmail&message=%20&color=EA4335&logo=gmail&logoColor=white)](mailto:vinuki.thomasz@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinuki-thomasz-8199b1225/)
 
-🎓 **BSc (Hons) Software Engineering Graduate**
-
-💻 **Full-Stack Developer | AI & Data Science Enthusiast**
+👩‍💻 **Software Engineer | Full-Stack Developer | Tech Explorer**  
+🌍 Turning ideas into interactive, scalable web and mobile applications.  
+💡 Focused on modern frameworks, cloud integration, and intuitive UI/UX.
 
 <!-- <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinukkii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"> -->
