@@ -13,7 +13,6 @@
 <!-- <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinukkii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"> -->
 
-#### 💻 Programming Languages
 ### Most Used Languages
 
 <img src="https://img.shields.io/badge/Angular-50%25-red?style=for-the-badge&logo=angular&logoColor=white">    <img src="https://img.shields.io/badge/.NET-30%25-blue?style=for-the-badge&logo=dotnet&logoColor=white">    <img src="https://img.shields.io/badge/Java-20%25-orange?style=for-the-badge&logo=java&logoColor=white">
