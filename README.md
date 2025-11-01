@@ -3,6 +3,13 @@
 [![vinuki.thomasz@gmail.com](https://img.shields.io/static/v1?label=Gmail&message=%20&color=EA4335&logo=gmail&logoColor=white)](mailto:vinuki.thomasz@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinuki-thomasz-8199b1225/)
 
+<a href="mailto:vinuki.thomasz@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=Gmail&message=%20&color=EA4335&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vinuki-thomasz-8199b1225/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0A66C2&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 👩‍💻 **Software Engineer | Full-Stack Developer | Tech Explorer**  
 🌍 Turning ideas into interactive, scalable web applications.  
 💡 Focused on modern frameworks, cloud integration, and intuitive UI/UX.
