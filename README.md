@@ -7,11 +7,12 @@
 🌍 Turning ideas into interactive, scalable web applications.  
 💡 Focused on modern frameworks, cloud integration, and intuitive UI/UX.
 
+ <img src="https://github-readme-stats.vercel.app/api?username=vinukkii&theme=dark&show_icons=true&hide_border=false&count_private=true" width="420" alt="GitHub Stats"/>
+
 <!-- <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinukkii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"> -->
 
 ### Most Used Languages
-
 <img src="https://img.shields.io/badge/Angular-80%25-%23F06543?style=for-the-badge&logo=angular&logoColor=white">  
 <img src="https://img.shields.io/badge/.NET-60%25-%237D83FF?style=for-the-badge&logo=dotnet&logoColor=white">  
 <img src="https://img.shields.io/badge/C%23-50%25-%23239120?style=for-the-badge&logo=csharp&logoColor=white">  
