@@ -30,4 +30,6 @@ Focused on modern frameworks, cloud integration, and intuitive UI/UX.
 <img src="https://img.shields.io/badge/Java-40%25-%23FFB300?style=for-the-badge&logo=coffeescript&logoColor=white">
 
 
+
+---
 > 🧡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
