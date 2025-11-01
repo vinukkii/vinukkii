@@ -7,7 +7,6 @@
 🌍 Turning ideas into interactive, scalable web applications.  
 💡 Focused on modern frameworks, cloud integration, and intuitive UI/UX.
 
- <img src="https://github-readme-stats.vercel.app/api?username=vinukkii&theme=dark&show_icons=true&hide_border=false&count_private=true" width="420" alt="GitHub Stats"/>
 
 <!-- <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinukkii&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"> -->
