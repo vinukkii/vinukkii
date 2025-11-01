@@ -32,4 +32,4 @@ Focused on modern frameworks, cloud integration, and intuitive UI/UX.
 
 
 ---
-> 🧡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> 🧡 *“Code is like art — it’s not about the lines you write, but the experience you create.”*
