@@ -34,11 +34,4 @@ Focused on modern frameworks, cloud integration, and intuitive UI/UX.
 
 ---
 
-### 📊 GitHub Insights
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinukkii&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="420" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinukkii&layout=compact&theme=tokyonight&hide_border=false" width="350" alt="Top Languages">
-
----
-
 > 🧡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
