@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 # 👋 Hi, I'm Vinuki Thomasz
 
-**Software Engineer | Full-Stack Developer | Tech Explorer**  
+**Software Engineer | Full-Stack Developer**  
 Turning ideas into interactive, scalable web applications.  
 Focused on modern frameworks, cloud integration, and intuitive UI/UX.
 
